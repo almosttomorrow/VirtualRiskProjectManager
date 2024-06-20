@@ -13,8 +13,8 @@ A Streamlit app to generate a comprehensive risk assessment template based on us
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/virtual-risk-project-manager.git
-   cd virtual-risk-project-manager
+'''git clone https://github.com/yourusername/virtual-risk-project-manager.git
+cd virtual-risk-project-manager
 
 2. Create a virtual environment and activate it:
 python -m venv venv
