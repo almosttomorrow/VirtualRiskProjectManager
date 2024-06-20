@@ -16,18 +16,19 @@ A Streamlit app to generate a comprehensive risk assessment template based on us
    ```sh
    git clone https://github.com/yourusername/virtual-risk-project-manager.git
    cd virtual-risk-project-manager
-Create a virtual environment and activate it:
 
-sh
+2. Create a virtual environment and activate it:
+```sh
 Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install the dependencies:
 
-sh
+3. Install the dependencies:
+```sh
 Copy code
 pip install -r requirements.txt
-Create a .env file in the root directory and add your OpenAI API key:
+
+4. Create a .env file in the root directory and add your OpenAI API key:
 
 plaintext
 Copy code
@@ -55,3 +56,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 License
 This project is licensed under the MIT License.
+
+javascript
+Copy code
+
+You can save this content directly as `README.md` in your GitHub repository.
